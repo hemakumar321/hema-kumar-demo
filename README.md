@@ -2,4 +2,4 @@
 
 Simple Maven Project
 
-This is Hema kumar
+This is Hema
