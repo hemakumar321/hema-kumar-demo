@@ -2,4 +2,4 @@
 
 Simple Maven Project
 
-This is Jayadev & Hema kumar
+This is Hema kumar
